@@ -4,11 +4,11 @@ Este projeto é um exemplo simples de como usar SQLite3 com Python para criar, i
 
 # 📁 Estrutura do Projeto
    .
-   ├── carros.db           # Banco de dados SQLite gerado pelo script
-   ├── create_table.py     # Cria a tabela 'carros' no banco de dados
-   ├── insert_row.py       # Insere um carro no banco de dados
-   ├── select_rows.py      # Consulta todos os carros cadastrados
-   └── README.md           # Este arquivo
+   ├── carros.db         
+   ├── create_table.py   
+   ├── insert_row.py      
+   ├── select_rows.py     
+   └── README.md       
 
 # 🧩 Requisitos
 
