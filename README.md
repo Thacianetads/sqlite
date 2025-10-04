@@ -30,13 +30,13 @@ create_table.py
 
 - Cria o banco de dados carros.db e a tabela carros com as colunas:
 
- - id (chave primária, autoincremento)
+- id (chave primária, autoincremento)
 
- - modelo
+- modelo
 
- - marca
+- marca
 
- - ano
+- ano
 
 insert_row.py
 
