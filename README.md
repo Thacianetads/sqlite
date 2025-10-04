@@ -3,12 +3,12 @@
 Este projeto é um exemplo simples de como usar SQLite3 com Python para criar, inserir e consultar dados em um banco de dados local. O banco armazena informações de carros (modelo, marca e ano).
 
 # 📁 Estrutura do Projeto
-.
-├── carros.db           # Banco de dados SQLite gerado pelo script
-├── create_table.py     # Cria a tabela 'carros' no banco de dados
-├── insert_row.py       # Insere um carro no banco de dados
-├── select_rows.py      # Consulta todos os carros cadastrados
-└── README.md           # Este arquivo
+   .
+   ├── carros.db           # Banco de dados SQLite gerado pelo script
+   ├── create_table.py     # Cria a tabela 'carros' no banco de dados
+   ├── insert_row.py       # Insere um carro no banco de dados
+   ├── select_rows.py      # Consulta todos os carros cadastrados
+   └── README.md           # Este arquivo
 
 # 🧩 Requisitos
 
@@ -30,13 +30,13 @@ create_table.py
 
 - Cria o banco de dados carros.db e a tabela carros com as colunas:
 
-  - id (chave primária, autoincremento)
+ - id (chave primária, autoincremento)
 
-  - modelo
+ - modelo
 
-  - marca
+ - marca
 
-  - ano
+ - ano
 
 insert_row.py
 
