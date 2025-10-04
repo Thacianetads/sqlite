@@ -26,22 +26,22 @@ Este projeto é um exemplo simples de como usar SQLite3 com Python para criar, i
 
 # 💻 Scripts explicados
 
-create_table.py
+create_table.py:
 
 - Cria o banco de dados carros.db e a tabela carros com as colunas:
 
-- id (chave primária, autoincremento)
+-id (chave primária, autoincremento)
 
-- modelo
+-modelo
 
-- marca
+-marca
 
-- ano
+-ano
 
-insert_row.py
+insert_row.py:
 
 - Insere um novo registro na tabela carros.
 
-select_rows.py
+select_rows.py:
 
 - Consulta todos os registros da tabela carros e imprime no terminal.
